@@ -71,4 +71,5 @@ This is an early version that needs customisation for wider use. Some examples o
 - flexible height, 
 - remove jQuery dependency (which shouldn't be difficult), 
 - allow colour customisation through properties
+- incorporate a responsive design for screen resizes
 
