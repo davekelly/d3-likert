@@ -1,0 +1,5 @@
+.hover{fill: #eee !important; cursor: pointer !important;}
+.no-hover{fill: #fff;}
+
+.axis path{fill: none;stroke:#b6b6b6;shape-rendering: crispEdges;}
+div.tooltip { position: absolute; text-align: left; width: 150px; min-height: 30px; padding: 1em; font: 12px sans-serif; background: #efefef; border: 1px solid #dbdbdb; border-radius: 5px; pointer-events: none; color: #000; }
